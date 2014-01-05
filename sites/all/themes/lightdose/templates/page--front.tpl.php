@@ -554,7 +554,7 @@
 
 				<!--BEGIN Works grid item-->
 				<li class="style">
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/works-image-1.jpg" alt="Bamboo chair Flow" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/500x400/000000/aaaaaa" alt="Bamboo chair Flow" />
 					<!--
 					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-1-580x386.jpg" alt="Bamboo chair Flow" />
 					-->
@@ -574,9 +574,9 @@
 
 				<!--BEGIN Works grid item-->
 				<li class="style">
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/works-image-2.jpg" alt="Jeroen Van Leur’s woodstock wardrobe" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/500x400/000000/aaaaaa" alt="Jeroen Van Leur’s woodstock wardrobe" />
 					<!--
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-1-580x388.jpg" alt="Jeroen Van Leur’s woodstock wardrobe" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/580x386/000000/aaaaaa" alt="Jeroen Van Leur’s woodstock wardrobe" />
 					-->
 					<div class="overlay">
 						<div class="stretch-both">
@@ -594,9 +594,9 @@
 
 				<!--BEGIN Works grid item-->
 				<li class="style">
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/works-image-3.jpg" alt="LSTN, reclaimed wood headphones" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/500x400/000000/aaaaaa" alt="LSTN, reclaimed wood headphones" />
 					<!--
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/lstn-reclaimed-wood-headphones-9-580x386.jpg" alt="LSTN, reclaimed wood headphones" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/580x386/000000/aaaaaa" alt="LSTN, reclaimed wood headphones" />
 					-->
 					<div class="overlay">
 						<div class="stretch-both">
@@ -614,9 +614,9 @@
 
 				<!--BEGIN Works grid item-->
 				<li class="other">
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/works-image-4.jpg" alt="Nomadic ironing board" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/500x400/000000/aaaaaa" alt="Nomadic ironing board" />
 					<!--
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/nomadic-ironing-board-4-580x386.jpg" alt="Nomadic ironing board" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/580x386/000000/aaaaaa" alt="Nomadic ironing board" />
 					-->
 					<div class="overlay">
 						<div class="stretch-both">
@@ -634,7 +634,7 @@
 
 				<!--BEGIN Works grid item-->
 				<li class="other">
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/works-image-5.jpg" alt="Outlier minimal backpack" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/500x400/000000/aaaaaa" alt="Outlier minimal backpack" />
 					<!--
 					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/outlier-minimal-backpack-2-580x386.jpg" alt="Outlier minimal backpack" />
 					-->
@@ -654,7 +654,7 @@
 
 				<!--BEGIN Works grid item-->
 				<li class="photography">
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/works-image-6.jpg" alt="Palm springs in postcards" />
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/500x400/000000/aaaaaa" alt="Palm springs in postcards" />
 					<!--
 					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/palm-springs-in-postcards-dolly-faibyshev-3-580x387.jpg" alt="Palm springs in postcards" />
 					-->
@@ -674,10 +674,7 @@
 
 				<!--BEGIN Works grid item-->
 				<li class="architecture photography">
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/works-image-7.jpg" alt="The Pump House" />
-					<!--
-					<img class="zoomIn img-responsive stretch-width" src="img/light-dose/works/the-pump-house-branch-studio-architects-1-580x386.jpg" alt="The Pump House" />
-					-->
+					<img class="zoomIn img-responsive stretch-width" src="http://placehold.it/500x400/000000/aaaaaa" alt="The Pump House" />
 					<div class="overlay">
 						<div class="stretch-both">
 							<div>
@@ -757,8 +754,8 @@
 											
 											<!--BEGIN Works carousel item inner-->
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-1-580x386.jpg" title="A barcelona apartment by Eva Cotman">
-													<img class="img-responsive" src="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-1-580x386.jpg" alt="A barcelona apartment by Eva Cotman" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="A barcelona apartment by Eva Cotman">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="A barcelona apartment by Eva Cotman" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -767,8 +764,8 @@
 
 											<!--BEGIN Works carousel item inner-->
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-2-580x386.jpg" title="A barcelona apartment by Eva Cotman">
-													<img class="img-responsive" src="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-2-580x386.jpg" alt="A barcelona apartment by Eva Cotman" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="A barcelona apartment by Eva Cotman">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="A barcelona apartment by Eva Cotman" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -777,8 +774,8 @@
 
 											<!--BEGIN Works carousel item inner-->
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-3-580x386.jpg" title="A barcelona apartment by Eva Cotman">
-													<img class="img-responsive" src="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-3-580x386.jpg" alt="A barcelona apartment by Eva Cotman" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="A barcelona apartment by Eva Cotman">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="A barcelona apartment by Eva Cotman" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -787,8 +784,8 @@
 
 											<!--BEGIN Works carousel item inner-->
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-4-580x386.jpg" title="A barcelona apartment by Eva Cotman">
-													<img class="img-responsive" src="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-4-580x386.jpg" alt="A barcelona apartment by Eva Cotman" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="A barcelona apartment by Eva Cotman">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="A barcelona apartment by Eva Cotman" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -797,8 +794,8 @@
 
 											<!--BEGIN Works carousel item inner-->
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-5-580x386.jpg" title="A barcelona apartment by Eva Cotman">
-													<img class="img-responsive" src="img/light-dose/works/a-barcelona-apartment-by-eva-cotman-gessato-gblog-5-580x386.jpg" alt="A barcelona apartment by Eva Cotman" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="A barcelona apartment by Eva Cotman">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="A barcelona apartment by Eva Cotman" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -839,36 +836,36 @@
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 										<div class="caroufredsel enable-swipe enable-pagination blueimp">
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-1-580x386.jpg" title="Bamboo chair Flow">
-													<img class="img-responsive" src="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-1-580x386.jpg" alt="Bamboo chair Flow" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Bamboo chair Flow">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Bamboo chair Flow" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-2-580x386.jpg" title="Bamboo chair Flow">
-													<img class="img-responsive" src="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-2-580x386.jpg" alt="Bamboo chair Flow" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Bamboo chair Flow">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Bamboo chair Flow" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-3-580x386.jpg" title="Bamboo chair Flow">
-													<img class="img-responsive" src="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-3-580x386.jpg" alt="Bamboo chair Flow" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Bamboo chair Flow">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Bamboo chair Flow" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-4-580x386.jpg" title="Bamboo chair Flow">
-													<img class="img-responsive" src="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-4-580x386.jpg" alt="Bamboo chair Flow" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Bamboo chair Flow">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Bamboo chair Flow" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-14-580x434.jpg" title="Bamboo chair Flow">
-													<img class="img-responsive" src="img/light-dose/works/bamboo-chair-flow-by-cheng-tsung-feng-kao-min-chen-14-580x434.jpg" alt="Bamboo chair Flow" />
+												<a class="img-responsive" href="http://placehold.it/580x434/000000/aaaaaa" title="Bamboo chair Flow">
+													<img class="img-responsive" src="http://placehold.it/580x434/000000/aaaaaa" alt="Bamboo chair Flow" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -912,36 +909,36 @@
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 										<div class="caroufredsel enable-swipe enable-pagination blueimp">
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-1-580x388.jpg" title="Jeroen Van Leur’s woodstock wardrobe">
-													<img class="img-responsive" src="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-1-580x388.jpg" alt="Jeroen Van Leur’s woodstock wardrobe" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Jeroen Van Leur’s woodstock wardrobe">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Jeroen Van Leur’s woodstock wardrobe" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-2-580x388.jpg" title="Jeroen Van Leur’s woodstock wardrobe">
-													<img class="img-responsive" src="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-2-580x388.jpg" alt="Jeroen Van Leur’s woodstock wardrobe" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Jeroen Van Leur’s woodstock wardrobe">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Jeroen Van Leur’s woodstock wardrobe" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-3-580x388.jpg" title="Jeroen Van Leur’s woodstock wardrobe">
-													<img class="img-responsive" src="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-3-580x388.jpg" alt="Jeroen Van Leur’s woodstock wardrobe" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Jeroen Van Leur’s woodstock wardrobe">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Jeroen Van Leur’s woodstock wardrobe" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-6-580x388.jpg" title="Jeroen Van Leur’s woodstock wardrobe">
-													<img class="img-responsive" src="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-6-580x388.jpg" alt="Jeroen Van Leur’s woodstock wardrobe" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Jeroen Van Leur’s woodstock wardrobe">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Jeroen Van Leur’s woodstock wardrobe" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-7-580x388.jpg" title="Jeroen Van Leur’s woodstock wardrobe">
-													<img class="img-responsive" src="img/light-dose/works/jeroen-van-leurs-woodstock-wardrobe-7-580x388.jpg" alt="Jeroen Van Leur’s woodstock wardrobe" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Jeroen Van Leur’s woodstock wardrobe">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Jeroen Van Leur’s woodstock wardrobe" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -979,36 +976,36 @@
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 										<div class="caroufredsel enable-swipe enable-pagination blueimp">
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/lstn-reclaimed-wood-headphones-9-580x386.jpg" title="LSTN, reclaimed wood headphones">
-													<img class="img-responsive" src="img/light-dose/works/lstn-reclaimed-wood-headphones-9-580x386.jpg" alt="LSTN, reclaimed wood headphones" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="LSTN, reclaimed wood headphones">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="LSTN, reclaimed wood headphones" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/lstn-reclaimed-wood-headphones-2-580x386.jpg" title="LSTN, reclaimed wood headphones">
-													<img class="img-responsive" src="img/light-dose/works/lstn-reclaimed-wood-headphones-2-580x386.jpg" alt="LSTN, reclaimed wood headphones" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="LSTN, reclaimed wood headphones">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="LSTN, reclaimed wood headphones" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/lstn-reclaimed-wood-headphones-1-580x362.jpg" title="LSTN, reclaimed wood headphones">
-													<img class="img-responsive" src="img/light-dose/works/lstn-reclaimed-wood-headphones-1-580x362.jpg" alt="LSTN, reclaimed wood headphones" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="LSTN, reclaimed wood headphones">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="LSTN, reclaimed wood headphones" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/lstn-reclaimed-wood-headphones-12-580x386.jpg" title="LSTN, reclaimed wood headphones">
-													<img class="img-responsive" src="img/light-dose/works/lstn-reclaimed-wood-headphones-12-580x386.jpg" alt="LSTN, reclaimed wood headphones" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="LSTN, reclaimed wood headphones">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="LSTN, reclaimed wood headphones" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/lstn-reclaimed-wood-headphones-14-580x386.jpg" title="LSTN, reclaimed wood headphones">
-													<img class="img-responsive" src="img/light-dose/works/lstn-reclaimed-wood-headphones-14-580x386.jpg" alt="LSTN, reclaimed wood headphones" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="LSTN, reclaimed wood headphones">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="LSTN, reclaimed wood headphones" />
 													<div class="overlay">
 													</div>
 												</a>
@@ -1052,36 +1049,36 @@
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 										<div class="caroufredsel enable-swipe enable-pagination blueimp">
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/nomadic-ironing-board-1-580x386.jpg" title="Nomadic ironing board">
-													<img class="img-responsive" src="img/light-dose/works/nomadic-ironing-board-1-580x386.jpg" alt="Nomadic ironing board" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Nomadic ironing board">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Nomadic ironing board" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/nomadic-ironing-board-2-580x386.jpg" title="Nomadic ironing board">
-													<img class="img-responsive" src="img/light-dose/works/nomadic-ironing-board-2-580x386.jpg" alt="Nomadic ironing board" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Nomadic ironing board">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Nomadic ironing board" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/nomadic-ironing-board-3-580x386.jpg" title="Nomadic ironing board">
-													<img class="img-responsive" src="img/light-dose/works/nomadic-ironing-board-3-580x386.jpg" alt="Nomadic ironing board" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Nomadic ironing board">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Nomadic ironing board" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/nomadic-ironing-board-4-580x386.jpg" title="Nomadic ironing board">
-													<img class="img-responsive" src="img/light-dose/works/nomadic-ironing-board-4-580x386.jpg" alt="Nomadic ironing board" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Nomadic ironing board">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Nomadic ironing board" />
 													<div class="overlay">
 													</div>
 												</a>
 											</div>
 											<div>
-												<a class="img-responsive" href="img/light-dose/works/nomadic-ironing-board-5-580x386.jpg" title="Nomadic ironing board">
-													<img class="img-responsive" src="img/light-dose/works/nomadic-ironing-board-5-580x386.jpg" alt="Nomadic ironing board" />
+												<a class="img-responsive" href="http://placehold.it/580x386/000000/aaaaaa" title="Nomadic ironing board">
+													<img class="img-responsive" src="http://placehold.it/580x386/000000/aaaaaa" alt="Nomadic ironing board" />
 													<div class="overlay">
 													</div>
 												</a>

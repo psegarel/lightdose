@@ -6,3 +6,11 @@
 body.front #admin-menu {
   display: none;
 }
+
+/* line 11, ../scss/style.scss */
+.footer {
+  margin-top: 0;
+  padding-top: inherit;
+  padding-bottom: inherit;
+  border-top: none;
+}

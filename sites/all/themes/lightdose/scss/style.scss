@@ -6,3 +6,10 @@
 
 //Hides the admin menu from the front page, uncomment whenever necessary
 body.front #admin-menu { display:none;}
+
+// Overrides Bootstrap CSS
+.footer {	margin-top: 0;
+			padding-top: inherit;
+			padding-bottom: inherit;
+			border-top: none;
+		}
