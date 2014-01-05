@@ -1,1 +1,14 @@
 <?php
+
+function light_dose_preprocess(&$variables , $hook)
+{
+	switch($hook)
+	{
+		case 'page':
+		case 'html':
+			// Path to the Light Dose theme	
+			$lightdose = drupal_get_path('theme' , 'lightdose').'/html';
+			$variables['lightdose'] = $lightdose;
+			break;
+	}
+}

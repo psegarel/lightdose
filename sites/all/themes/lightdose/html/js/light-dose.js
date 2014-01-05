@@ -767,73 +767,26 @@ var handler = {
 } )( jQuery );
 
 
-//--//
-/*	*/
-/***********************************************************************************
- * jQuery Adaptive parralax plugin v.1.3d                                          *
- * Created by wfoojjaec                                                            *
- * For any copyright issues one should contact author directly via gmail or skype. *
- ***********************************************************************************/
-( function( jQuery ) {
-	'use strict';
-	jQuery.fn.Aparallax = function() {
-		if( jQuery( this ).length > 0 )
-			jQuery( this ).each( function() {
-				var jQuerythis = jQuery( this );
-				var windowWidth = jQuery( window ).width();
-				var windowHeight = jQuery( window ).height();
-				var elementWidth = jQuerythis.outerWidth();
-				var elementHeight = jQuerythis.outerHeight();
+(function ($) {
+	//	Remove spinner
+	$( window ).load( function() {
+		'use strict';
+		if( $( '#spin' ).length !== 0 ) {
+			spinner.stop();
+			delay( function() {
+				if( $( window ).width() > 1024 )
+					$( '#spin' ).fadeOut( function() {
+						$( '#spin' ).remove();
+					} );
+				else
+					$( '#spin' ).remove();
+			}, 'spin', throttle );
+		}
+	} );
+	//--//
+})(jQuery);
 
-				$( window ).resize( function() {
-					windowWidth = jQuery( window ).width();
-					windowHeight = jQuery( window ).height();
-					elementWidth = jQuerythis.outerWidth();
-					elementHeight = jQuerythis.outerHeight();
-					update( Aparallax );
-				} );
 
-				var backgroundImage = $( '<div style="position : absolute; width : 0; height : 0; z-index : -1; overflow : hidden"><img src=' + jQuerythis.css( 'backgroundImage' ).replace( 'url(', '' ).replace( ')', '' ) + ' /></div>' );
-				$( 'body' ).append( backgroundImage );
-				var backgroundHeight = 0;
-				var backgroundWidth = 0;
-				backgroundImage.children().first().load( function() {
-					backgroundWidth = backgroundImage.children().first().width();
-					backgroundHeight = backgroundImage.children().first().height();
-					backgroundImage.remove();
-				} );
-				$( window ).scroll( function() {
-					update( Aparallax );
-				} );
-				$( window ).load( function() {
-					update( Aparallax );
-				} );
-				function update( Aparallax ) {
-					var windowScrollTop = $( window ).scrollTop();
-					var elementOffsetTop = jQuerythis.offset().top;
-					if( windowScrollTop < elementOffsetTop + elementHeight && windowScrollTop + windowHeight > elementOffsetTop && jQuerythis.hasClass( 'aparallax' ) ) {
-						var offset;
-						if( Aparallax === true || Aparallax === undefined ) {
-							var ratio = ( jQuerythis.css( 'background-attachment' ) == 'fixed' ) ? windowWidth / backgroundWidth : elementWidth / backgroundWidth;
-							if( windowScrollTop > elementOffsetTop + elementHeight || windowScrollTop + windowHeight < elementOffsetTop || backgroundHeight * ratio <= elementHeight )
-								offset = 0;
-							else {
-								var after = Math.max( windowScrollTop + windowHeight - elementOffsetTop - elementHeight, 0 ) / windowHeight;
-								var before = Math.min( ( windowScrollTop + windowHeight - elementOffsetTop ) / windowHeight, 1 );
-								offset = - Math.floor( after + before / 2 * ( backgroundHeight * ratio - elementHeight ) );
-							}
-						}
-						else
-							offset = 0;
-						jQuerythis.css( {
-							'backgroundPosition' : 'center ' + offset + 'px'
-						} );
-					}
-				}
-				update();
-			} );
-	};
-} )( jQuery );
 /**/
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * Hel Ohm Um Lo Cham                                                *

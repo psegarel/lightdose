@@ -63,6 +63,54 @@
   <?php print $scripts; ?>
 </head>
 <body class="<?php print $classes; ?>" <?php print $attributes;?>>
+	
+	<!--BEGIN Preloader-->
+	<!--DESCRIPTION
+
+		Spinner configuration can be changed using:
+			http://fgnass.github.io/spin.js/
+		After configuration <Spinner options> section should be replaced with desired options.
+	-->
+	<script type="text/javascript">
+		var element = document.createElement( 'div' );
+		element.id = 'spin';
+		element.style.position = 'fixed';
+		element.style.zIndex = 10000;
+		element.style.top = 0;
+		element.style.right = 0;
+		element.style.bottom = 0;
+		element.style.left = 0;
+		element.style.width = '100%';
+		element.style.height = '100%';
+		element.style.background = '#FFF';
+		document.body.appendChild( element );
+		//	Starting a spin
+
+		//<!--BEGIN Spinner options-->
+		var opts = {
+		  lines: 7, // The number of lines to draw
+		  length: 0, // The length of each line
+		  width: 7, // The line thickness
+		  radius: 7, // The radius of the inner circle
+		  corners: 0.9, // Corner roundness (0..1)
+		  rotate: 0, // The rotation offset
+		  direction: 1, // 1: clockwise, -1: counterclockwise
+		  color: '#000', // #rgb or #rrggbb or array of colors
+		  speed: 1.2, // Rounds per second
+		  trail: 85, // Afterglow percentage
+		  shadow: false, // Whether to render a shadow
+		  hwaccel: false, // Whether to use hardware acceleration
+		  className: 'spinner', // The CSS class to assign to the spinner
+		  zIndex: 2e9, // The z-index (defaults to 2000000000)
+		  top: 'auto', // Top position relative to parent in px
+		  left: 'auto' // Left position relative to parent in px
+		};
+		//<!--END Spinner options-->
+		var target = document.getElementById( 'spin' );
+		var spinner = new Spinner( opts ).spin( target );
+	</script>
+	<!--END	Preloader-->
+	
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable"><?php print t('Skip to main content'); ?></a>
   </div>

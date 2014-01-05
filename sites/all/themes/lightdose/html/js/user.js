@@ -1,4 +1,5 @@
 (function ($) {
+
 	var throttle = 200;
 	function loadMorePosts() {
 		return $( '.post' ).eq( Math.floor( Math.random() * ( $( '.post' ).length + 1 ) ) ).clone();
@@ -10,5 +11,6 @@
 			}
 		} );
 	} );
+
 
 })(jQuery);

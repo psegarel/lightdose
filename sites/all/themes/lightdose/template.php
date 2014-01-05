@@ -15,6 +15,10 @@ function lightdose_preprocess_html(&$variables)
 	drupal_add_css('http://netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css' , $css_options);
 	drupal_add_css( drupal_get_path('theme', 'lightdose').'/Gallery/css/blueimp-gallery.min.css' , array( 'type' => 'file', 'group' => CSS_THEME));
 	
+	// Adds Light Dose JS in the Header area
+	drupal_add_js(  drupal_get_path('theme', 'lightdose').'/html/js/spin.min.js'	, array('type'	=> 'file','group'	=> JS_THEME,'scope'	=> 'header',) );
+	//drupal_add_js(  drupal_get_path('theme', 'lightdose').'/js/preloader.js'	, array('type'	=> 'file','group'	=> JS_THEME,'scope'	=> 'header',) );
+	
 	// Adds Light Dose JS in the Footer area
 	$js_options = array(	'type'	=> 'file',
 							'group'	=> JS_THEME,
@@ -32,5 +36,6 @@ function lightdose_preprocess_html(&$variables)
 	drupal_add_js( drupal_get_path('theme', 'lightdose').'/html/js/validate.min.js'  , $js_options);
 	drupal_add_js( drupal_get_path('theme', 'lightdose').'/Gallery/js/blueimp-gallery.min.js'  , $js_options);
 	drupal_add_js( drupal_get_path('theme', 'lightdose').'/html/js/user.js'  , $js_options);
-	drupal_add_js( drupal_get_path('theme', 'lightdose').'/html/js/light-dose.js'  , $js_options);		
+	drupal_add_js( drupal_get_path('theme', 'lightdose').'/html/js/light-dose.js'  , $js_options);	
+	drupal_add_js( drupal_get_path('theme', 'lightdose').'/js/aparallax.js'  , $js_options);				
 }
