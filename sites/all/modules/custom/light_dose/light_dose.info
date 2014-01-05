@@ -1,0 +1,5 @@
+name = Light Dose
+description = Various development helper functions
+core = 7.x
+
+package = Light Dose
