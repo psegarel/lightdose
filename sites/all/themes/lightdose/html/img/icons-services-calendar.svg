@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+	<path fill="white" d="M29.333,3H25V1c0-0.553-0.448-1-1-1c-0.552,0-1,0.447-1,1v2h-6V1c0-0.553-0.448-1-1-1c-0.552,0-1,0.447-1,1v2H9
+		V1c0-0.553-0.448-1-1-1C7.448,0,7,0.447,7,1v2H2.667C1.194,3,0,4.193,0,5.666v23.667C0,30.805,1.194,32,2.667,32h26.667
+		C30.806,32,32,30.805,32,29.333V5.666C32,4.193,30.806,3,29.333,3z M30,29.333C30,29.701,29.701,30,29.333,30H2.667
+		C2.299,30,2,29.701,2,29.333V5.666C2,5.298,2.299,5,2.667,5H7v2c0,0.553,0.448,1,1,1c0.552,0,1-0.447,1-1V5h6v2c0,0.553,0.448,1,1,1
+		c0.552,0,1-0.447,1-1V5h6v2c0,0.553,0.448,1,1,1c0.552,0,1-0.447,1-1V5h4.333C29.701,5,30,5.298,30,5.666V29.333z"/>
+	<path fill="white" d="M7,15h4v-3H7V15z"/>
+	<path fill="white" d="M7,20h4v-3H7V20z"/>
+	<path fill="white" d="M7,25h4v-3H7V25z"/>
+	<path fill="white" d="M14,25h4v-3h-4V25z"/>
+	<path fill="white" d="M14,20h4v-3h-4V20z"/>
+	<path fill="white" d="M14,15h4v-3h-4V15z"/>
+	<path fill="white" d="M21,25h4v-3h-4V25z"/>
+	<path fill="white" d="M21,20h4v-3h-4V20z"/>
+	<path fill="white" d="M21,15h4v-3h-4V15z"/>
+</svg>

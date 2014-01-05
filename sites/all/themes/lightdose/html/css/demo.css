@@ -1,0 +1,138 @@
+/*--------------------------------------------------------------------*/
+/*                                DEMO                                */
+/*--------------------------------------------------------------------*/
+	/*
+		SERVICES
+	*/
+	.services {
+		background-image: url( '../img/light-dose/background-services.jpg' );
+	}
+	.services .underlay {
+		background-color: transparent;
+	}
+	.services .overlay {
+		background-image: url( '../img/light-dose/background-services-blurred.jpg' );
+	}
+	/*	*/
+	/*
+		ACTION
+	*/
+	.stories {
+		background-image: url( '../img/light-dose/background-action.jpg' );
+	}
+	/*	*/
+	/*
+		ACTION
+	*/
+	.action {
+		background-image: url( '../img/light-dose/background-action.jpg' );
+	}
+	/*	*/
+	/*
+		PRICING
+	*/
+	.pricing {
+		background-image: url( '../img/light-dose/background-pricing.jpg' );
+	}
+	/*	*/
+	/*
+		CONTACTS
+	*/
+	.contacts {
+		background-image: url( '../img/light-dose/background-contacts.jpg' );
+	}
+	/*	*/
+	a.demo.five {
+		max-width: 215px;
+	}
+	a.demo.four {
+		max-width: 195px;
+	}
+	a.demo.three {
+		max-width: 175px;
+	}
+	a.demo.two {
+		max-width: 155px;
+	}
+	a.demo.one {
+		max-width: 135px;
+	}
+	/*
+		WHITE THEME
+	*/
+	.theme-white.links a.demo.white,
+	.theme-white.links a.demo.link.white {
+		color: #054383 !important;
+		border-bottom: 1px rgba( 5, 67, 131, 0.1 ) solid !important;
+	}
+	.theme-white.links a.demo.hover.white {
+		font-weight: 400 !important;
+		color: #054383 !important;
+		border-bottom: 1px rgba( 5, 67, 131, 0.5 ) solid !important;
+	}
+	.theme-white.links a.demo.active-focus.white {
+		color: #054383 !important;
+		border-bottom: 1px #054383 solid !important;
+	}
+	.theme-white.links a.demo.visited.white {
+		color: #054383 !important;
+		border-bottom: 1px rgba( 5, 67, 131, 0.1 ) solid !important;
+		opacity: 0.7 !important;
+	}
+	.theme-white input[type=submit].btn.demo.hover.white {
+		color: #FFF  !important;
+		background-color: #054383 !important;
+	}
+	.theme-white input[type=submit].btn.demo.active-focus.white {
+		color: #FFF !important;
+		border: none !important;
+		background-color: rgba( 5, 67, 131, 0.9 ) !important;
+	}
+	/*	*/
+	/*
+		COLOR THEME
+	*/
+	.theme-color.links a.demo.color,
+	.theme-color.links a.demo.link.color {
+		color: #FFF;
+		border-bottom: 1px rgba( 255, 255, 255, 0.1 ) solid;
+	}
+	.theme-color.links a.demo.hover.color {
+		font-weight: 400;
+		color: #FFF;
+		border-bottom: 2px rgba( 255, 255, 255, 0.5 ) solid;
+	}
+	.theme-color.links a.demo.active-focus.color {
+		color: #FFF;
+		border-bottom: 1px #FFF solid;
+	}
+	.theme-color.links a.demo.visited.color {
+		color: #FFF;
+		border-bottom: 1px rgba( 255, 255, 255, 0.1 ) solid;
+		opacity: 0.7;
+	}
+	.theme-color input[type=submit].demo.hover.color {
+		color: #054383 !important;
+		background-color: #FFF !important;
+	}
+	.theme-color input[type=submit].demo.active-focus.color {
+		color: #054383 !important;
+		border: none !important;
+		background-color: rgba( 255, 255, 255, 0.9 ) !important;
+	}
+/*--------------------------------------------------------------------*/
+	/*
+		WHITE THEME
+	*/
+	.theme-white.links a.demo.visited {
+		filter: alpha(opacity=70); /* for ie8 */
+	}
+	/*	*/
+	/*
+		COLOR THEME
+	*/
+	.theme-color.links a.demo.visited {
+		filter: alpha(opacity=70); /* for ie8 */
+	}
+	/*	*/
+/*	*/
