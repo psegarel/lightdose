@@ -23,7 +23,9 @@ regions[page_bottom]    = 'Page bottom'
 ;;;;;;;;;;;;;;;;;;;;;
 ;; Stylesheets
 ;;;;;;;;;;;;;;;;;;;;;
-
+stylesheets[all][] = html/css/social-icons.css
+stylesheets[all][] = html/css/light-dose.css
+stylesheets[all][] = html/css/demo.css
 stylesheets[all][] = css/style.css
 
 

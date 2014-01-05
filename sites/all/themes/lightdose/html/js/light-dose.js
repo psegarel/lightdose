@@ -765,21 +765,8 @@ var handler = {
 		} );
 	} );
 } )( jQuery );
-//	Remove spinner
-$( window ).load( function() {
-	'use strict';
-	if( $( '#spin' ).length !== 0 ) {
-		spinner.stop();
-		delay( function() {
-			if( $( window ).width() > 1024 )
-				$( '#spin' ).fadeOut( function() {
-					$( '#spin' ).remove();
-				} );
-			else
-				$( '#spin' ).remove();
-		}, 'spin', throttle );
-	}
-} );
+
+
 //--//
 /*	*/
 /***********************************************************************************
