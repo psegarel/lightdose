@@ -1,10 +1,4 @@
-<?php
-// Path to the Light Dose theme	
-//$lightdose = drupal_get_path('theme' , 'lightdose').'/html';
-
-?>
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
 <!--BEGIN Topper-->
 <header class="theme-white background foreground topper" id="navigation">
 	<div class="container stretch-height text-right">
